@@ -1,0 +1,5 @@
+11 oct 2014 15:42:42,706 INFO  ~ Starting C:\Users\Leche Family\Documents\git\arduSerialJava\arduSerialJava
+11 oct 2014 15:42:43,338 WARN  ~ You're running Play! in DEV mode
+11 oct 2014 15:42:43,438 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+11 oct 2014 15:43:10,509 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+11 oct 2014 15:43:10,549 INFO  ~ Application 'arduSerialJava' is now started !
